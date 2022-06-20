@@ -17,3 +17,6 @@ print(animes)
 animes.append('Overlord')
 print(animes)
 # Output: ['Spy x Family', 'Ranking of Kings', 'Demon Slayer', 'Tokyo Ghoul', 'Overlord']
+
+print(animes[3])
+# Output: Tokyo Ghoul
